@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This a simple Job list app made with React, bootstrap and the Github Job API.
 
 ## Available Scripts
 
